@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2349017321997", // your number with country code
   OWNER_NAME: 'Grace', // your owner name 
   BOT_NAME: "Grace", // your preferred bot name
-  SESSION_ID: 'kord_ai-Ec1EFT0DOD8G', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-sacLYJbdLK82', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
@@ -21,9 +21,9 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "Smartcash Bank", // the name of your preferred bank
+    acc_number: "9017321997", // account number for your preferred bank
+    acc_name: "Ajibare" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
@@ -31,7 +31,7 @@ global.settings = {
   },
   isHackEnable: true,
   SAFE_SEARCH: true,
-  REJECT_CALLS: true,
+  REJECT_CALLS: false,
   SEND_WELCOME_MESSAGE: false,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
